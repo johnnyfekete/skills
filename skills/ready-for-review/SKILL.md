@@ -1,16 +1,16 @@
 ---
-name: handoff
-description: Use when you finish a task and hand the work back to me. Decide if a handoff block is useful, and add it to the end of your final message when it is.
+name: ready-for-review
+description: Use when you finish a task and hand the work back to me. Decide if a review block is useful, and add it to the end of your final message when it is.
 ---
 
-# Handoff
+# Ready for review
 
-When the task is done, end your final message with a handoff block. Include every line that applies. If a line applies but
+When the task is done, end your final message with a review block. Include every line that applies. If a line applies but
 you can't find the value, write "missing" and say why.
 
 ## When to use it
 
-Use your judgment. Add the handoff block when I have something to
+Use your judgment. Add the review block when I have something to
 check, for example:
 - you changed code that I can run or see in the browser
 - you opened or updated a PR

@@ -15,14 +15,14 @@ npx skills@latest add johnnyfekete/skills
 Install one skill:
 
 ```bash
-npx skills@latest add johnnyfekete/skills --skill handoff
+npx skills@latest add johnnyfekete/skills --skill ready-for-review
 ```
 
 The installer copies the skill files into your project. You can edit them there. To get new versions, run `npx skills@latest update`.
 
 ## Skills
 
-### [handoff](./skills/handoff/SKILL.md)
+### [ready-for-review](./skills/ready-for-review/SKILL.md)
 
 When the agent finishes a task, it ends its last message with a short review block: the dev server link, the worktree path, the ticket link, the PR link, and 2–3 steps to test the change.
 
